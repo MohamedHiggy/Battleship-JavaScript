@@ -48,4 +48,4 @@ Features to implement next:
 - Make better graphics, maybe add sound effects?
 - Make a 2-player version of the game!
 
-❮img src="../0.jpg" ❯
+![Image description](https://code.org/shared/images/social-media/codeorg2019_social.png)

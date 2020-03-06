@@ -48,4 +48,4 @@ Features to implement next:
 - Make better graphics, maybe add sound effects?
 - Make a 2-player version of the game!
 
-❮img src="../0.jpg" ❯
+![Image description](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIA1840SpUFTWFiJJGxNavHsDYtVOb2Otjgnw7t5ODlcoXJV2l)
